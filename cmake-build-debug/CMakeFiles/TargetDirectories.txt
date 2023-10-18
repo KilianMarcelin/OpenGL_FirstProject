@@ -1,0 +1,3 @@
+C:/OpenGL_FirstProject/cmake-build-debug/CMakeFiles/OpenGL_Minimal.dir
+C:/OpenGL_FirstProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/OpenGL_FirstProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

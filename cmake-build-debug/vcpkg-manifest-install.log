@@ -1,0 +1,182 @@
+Detecting compiler hash for triplet x64-windows...
+A suitable version of powershell-core was not found (required v7.2.11) Downloading portable powershell-core 7.2.11...
+Downloading powershell-core...
+https://github.com/PowerShell/PowerShell/releases/download/v7.2.11/PowerShell-7.2.11-win-x86.zip->C:\Users\kilia\.vcpkg-clion\vcpkg\downloads\PowerShell-7.2.11-win-x86.zip
+Downloading https://github.com/PowerShell/PowerShell/releases/download/v7.2.11/PowerShell-7.2.11-win-x86.zip
+Extracting powershell-core...
+The following packages will be built and installed:
+  * egl-registry:x64-windows -> 2022-09-20 -- C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\egl-registry\e596b6c29ad16da764aab6f2fef830a3a884f14b
+    glew:x64-windows -> 2.2.0#3 -- C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\glew\cfd894e57985fdb9c772bbf28a4aa261759bb6ac
+    glfw3:x64-windows -> 3.3.8#2 -- C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\glfw3\308cd3ebdf6752e9d5eeb2933f33972c784aa8bd
+    glm:x64-windows -> 2023-06-08 -- C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\glm\6687c48e237aab1c30cf4c589d08f698f73cf178
+  * opengl:x64-windows -> 2022-12-04#3 -- C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\opengl\c3ae71738f88449ebcd781cef60d9a253fa091d4
+  * opengl-registry:x64-windows -> 2022-09-29#1 -- C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\opengl-registry\367e1502c966f1df0656bdea115989650d01a781
+  * vcpkg-cmake:x64-windows -> 2023-05-04 -- C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\vcpkg-cmake\88a7058fc7fa73a9c4c99cfcae9d79e2abf87a5a
+  * vcpkg-cmake-config:x64-windows -> 2022-02-06#1 -- C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\vcpkg-cmake-config\8d54cc4f487d51b655abec5f9c9c3f86ca83311f
+Additional packages (*) will be modified to complete this operation.
+A suitable version of 7zip was not found (required v23.1.0) Downloading portable 7zip 23.1.0...
+Downloading 7zip...
+https://www.7-zip.org/a/7z2301-extra.7z->C:\Users\kilia\.vcpkg-clion\vcpkg\downloads\7z2301-extra.7z
+Downloading https://www.7-zip.org/a/7z2301-extra.7z
+Extracting 7zip...
+Restored 0 package(s) from C:\Users\kilia\AppData\Local\vcpkg\archives in 252 us. Use --debug to see more details.
+Installing 1/8 vcpkg-cmake-config:x64-windows...
+Building vcpkg-cmake-config:x64-windows...
+-- Installing port from location: C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\vcpkg-cmake-config\8d54cc4f487d51b655abec5f9c9c3f86ca83311f
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/vcpkg-cmake-config_x64-windows/share/vcpkg-cmake-config/vcpkg_cmake_config_fixup.cmake
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/vcpkg-cmake-config_x64-windows/share/vcpkg-cmake-config/vcpkg-port-config.cmake
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/vcpkg-cmake-config_x64-windows/share/vcpkg-cmake-config/copyright
+-- Performing post-build validation
+Stored binaries in 1 destinations in 75.4 ms.
+Elapsed time to handle vcpkg-cmake-config:x64-windows: 157 ms
+Installing 2/8 vcpkg-cmake:x64-windows...
+Building vcpkg-cmake:x64-windows...
+-- Installing port from location: C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\vcpkg-cmake\88a7058fc7fa73a9c4c99cfcae9d79e2abf87a5a
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/vcpkg-cmake_x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/vcpkg-cmake_x64-windows/share/vcpkg-cmake/vcpkg_cmake_build.cmake
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/vcpkg-cmake_x64-windows/share/vcpkg-cmake/vcpkg_cmake_install.cmake
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/vcpkg-cmake_x64-windows/share/vcpkg-cmake/vcpkg-port-config.cmake
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/vcpkg-cmake_x64-windows/share/vcpkg-cmake/copyright
+-- Performing post-build validation
+Stored binaries in 1 destinations in 40.6 ms.
+Elapsed time to handle vcpkg-cmake:x64-windows: 129 ms
+Installing 3/8 egl-registry:x64-windows...
+Building egl-registry:x64-windows...
+-- Installing port from location: C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\egl-registry\e596b6c29ad16da764aab6f2fef830a3a884f14b
+-- Downloading https://github.com/KhronosGroup/EGL-Registry/archive/af97e2c27b49a090a335fc6ed5040c780ad9fec8.tar.gz -> KhronosGroup-EGL-Registry-af97e2c27b49a090a335fc6ed5040c780ad9fec8.tar.gz...
+-- Extracting source C:/Users/kilia/.vcpkg-clion/vcpkg/downloads/KhronosGroup-EGL-Registry-af97e2c27b49a090a335fc6ed5040c780ad9fec8.tar.gz
+-- Using source at C:/Users/kilia/.vcpkg-clion/vcpkg/buildtrees/egl-registry/src/780ad9fec8-51aa70c4bd.clean
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/egl-registry_x64-windows/share/egl-registry/copyright
+-- Performing post-build validation
+Stored binaries in 1 destinations in 66.1 ms.
+Elapsed time to handle egl-registry:x64-windows: 1.9 s
+Installing 4/8 opengl-registry:x64-windows...
+Building opengl-registry:x64-windows...
+-- Installing port from location: C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\opengl-registry\367e1502c966f1df0656bdea115989650d01a781
+-- Downloading https://github.com/KhronosGroup/OpenGL-Registry/archive/5bae8738b23d06968e7c3a41308568120943ae77.tar.gz -> KhronosGroup-OpenGL-Registry-5bae8738b23d06968e7c3a41308568120943ae77.tar.gz...
+-- Extracting source C:/Users/kilia/.vcpkg-clion/vcpkg/downloads/KhronosGroup-OpenGL-Registry-5bae8738b23d06968e7c3a41308568120943ae77.tar.gz
+-- Using source at C:/Users/kilia/.vcpkg-clion/vcpkg/buildtrees/opengl-registry/src/120943ae77-d1a12ea691.clean
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl-registry_x64-windows/share/opengl-registry/copyright
+-- Performing post-build validation
+Stored binaries in 1 destinations in 290 ms.
+Elapsed time to handle opengl-registry:x64-windows: 13 s
+Installing 5/8 opengl:x64-windows...
+Building opengl:x64-windows...
+-- Installing port from location: C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\opengl\c3ae71738f88449ebcd781cef60d9a253fa091d4
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/include/GL/gl.h
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/include/GL/glu.h
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/lib/OpenGL32.Lib
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/lib/GlU32.Lib
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/debug/lib/OpenGL32.Lib
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/debug/lib/GlU32.Lib
+-- Fixing pkgconfig file: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/lib/pkgconfig/glu.pc
+-- Fixing pkgconfig file: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/lib/pkgconfig/opengl.pc
+-- Downloading https://mirror.msys2.org/mingw/mingw32/mingw-w64-i686-pkgconf-1~1.8.0-2-any.pkg.tar.zst;https://repo.msys2.org/mingw/mingw32/mingw-w64-i686-pkgconf-1~1.8.0-2-any.pkg.tar.zst;https://mirror.yandex.ru/mirrors/msys2/mingw/mingw32/mingw-w64-i686-pkgconf-1~1.8.0-2-any.pkg.tar.zst;https://mirrors.tuna.tsinghua.edu.cn/msys2/mingw/mingw32/mingw-w64-i686-pkgconf-1~1.8.0-2-any.pkg.tar.zst;https://mirrors.ustc.edu.cn/msys2/mingw/mingw32/mingw-w64-i686-pkgconf-1~1.8.0-2-any.pkg.tar.zst;https://mirror.selfnet.de/msys2/mingw/mingw32/mingw-w64-i686-pkgconf-1~1.8.0-2-any.pkg.tar.zst -> mingw-w64-i686-pkgconf-1~1.8.0-2-any.pkg.tar.zst...
+-- Downloading https://mirror.msys2.org/msys/x86_64/msys2-runtime-3.4.6-1-x86_64.pkg.tar.zst;https://repo.msys2.org/msys/x86_64/msys2-runtime-3.4.6-1-x86_64.pkg.tar.zst;https://mirror.yandex.ru/mirrors/msys2/msys/x86_64/msys2-runtime-3.4.6-1-x86_64.pkg.tar.zst;https://mirrors.tuna.tsinghua.edu.cn/msys2/msys/x86_64/msys2-runtime-3.4.6-1-x86_64.pkg.tar.zst;https://mirrors.ustc.edu.cn/msys2/msys/x86_64/msys2-runtime-3.4.6-1-x86_64.pkg.tar.zst;https://mirror.selfnet.de/msys2/msys/x86_64/msys2-runtime-3.4.6-1-x86_64.pkg.tar.zst -> msys2-msys2-runtime-3.4.6-1-x86_64.pkg.tar.zst...
+-- Using msys root at C:/Users/kilia/.vcpkg-clion/vcpkg/downloads/tools/msys2/6f3fa1a12ef85a6f
+-- Fixing pkgconfig file: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/debug/lib/pkgconfig/glu.pc
+-- Fixing pkgconfig file: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/debug/lib/pkgconfig/opengl.pc
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/opengl_x64-windows/share/opengl/usage
+-- Performing post-build validation
+Stored binaries in 1 destinations in 39.9 ms.
+Elapsed time to handle opengl:x64-windows: 2.3 s
+Installing 6/8 glew:x64-windows...
+Building glew:x64-windows...
+-- Installing port from location: C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\glew\cfd894e57985fdb9c772bbf28a4aa261759bb6ac
+-- Downloading https://github.com/nigels-com/glew/releases/download/glew-2.2.0/glew-2.2.0.tgz -> glew-2.2.0.tgz...
+-- Extracting source C:/Users/kilia/.vcpkg-clion/vcpkg/downloads/glew-2.2.0.tgz
+-- Applying patch fix-LNK2019.patch
+-- Applying patch base_address.patch
+-- Using source at C:/Users/kilia/.vcpkg-clion/vcpkg/buildtrees/glew/src/glew-80f5997feb.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows-dbg
+-- Configuring x64-windows-rel
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glew_x64-windows/lib/pkgconfig/glew.pc
+-- Fixing pkgconfig file: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glew_x64-windows/debug/lib/pkgconfig/glew.pc
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glew_x64-windows/bin/glew32.dll
+      C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glew_x64-windows/debug/bin/glew32d.dll
+
+Call Stack (most recent call first):
+  buildtrees/versioning_/versions/glew/cfd894e57985fdb9c772bbf28a4aa261759bb6ac/portfile.cmake:67 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:168 (include)
+
+
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glew_x64-windows/share/glew/vcpkg-cmake-wrapper.cmake
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glew_x64-windows/share/glew/copyright
+-- Performing post-build validation
+Stored binaries in 1 destinations in 227 ms.
+Elapsed time to handle glew:x64-windows: 46 s
+Installing 7/8 glfw3:x64-windows...
+Building glfw3:x64-windows...
+-- Installing port from location: C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\glfw3\308cd3ebdf6752e9d5eeb2933f33972c784aa8bd
+-- Downloading https://github.com/glfw/glfw/archive/7482de6071d21db77a7236155da44c172a7f6c9e.tar.gz -> glfw-glfw-7482de6071d21db77a7236155da44c172a7f6c9e.tar.gz...
+-- Extracting source C:/Users/kilia/.vcpkg-clion/vcpkg/downloads/glfw-glfw-7482de6071d21db77a7236155da44c172a7f6c9e.tar.gz
+-- Using source at C:/Users/kilia/.vcpkg-clion/vcpkg/buildtrees/glfw3/src/172a7f6c9e-7678776297.clean
+GLFW3 currently requires the following libraries from the system package manager:
+    xinerama
+    xcursor
+    xorg
+    libglu1-mesa
+    pkg-config
+
+These can be installed via brew install libxinerama-dev libxcursor-dev xorg-dev libglu1-mesa-dev pkg-config
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glfw3_x64-windows/lib/pkgconfig/glfw3.pc
+-- Using cached mingw-w64-i686-pkgconf-1~1.8.0-2-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.4.6-1-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/kilia/.vcpkg-clion/vcpkg/downloads/tools/msys2/6f3fa1a12ef85a6f
+-- Fixing pkgconfig file: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glfw3_x64-windows/debug/lib/pkgconfig/glfw3.pc
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glfw3_x64-windows/share/glfw3/copyright
+CMake Warning at scripts/cmake/vcpkg_copy_pdbs.cmake:44 (message):
+  Could not find a matching pdb file for:
+
+      C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glfw3_x64-windows/bin/glfw3.dll
+      C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glfw3_x64-windows/debug/bin/glfw3.dll
+
+Call Stack (most recent call first):
+  buildtrees/versioning_/versions/glfw3/308cd3ebdf6752e9d5eeb2933f33972c784aa8bd/portfile.cmake:59 (vcpkg_copy_pdbs)
+  scripts/ports.cmake:168 (include)
+
+
+-- Performing post-build validation
+Stored binaries in 1 destinations in 76.3 ms.
+Elapsed time to handle glfw3:x64-windows: 6 s
+Installing 8/8 glm:x64-windows...
+Building glm:x64-windows...
+-- Installing port from location: C:\Users\kilia\.vcpkg-clion\vcpkg\buildtrees\versioning_\versions\glm\6687c48e237aab1c30cf4c589d08f698f73cf178
+-- Downloading https://github.com/g-truc/glm/archive/5c46b9c07008ae65cb81ab79cd677ecc1934b903.tar.gz -> g-truc-glm-5c46b9c07008ae65cb81ab79cd677ecc1934b903.tar.gz...
+-- Extracting source C:/Users/kilia/.vcpkg-clion/vcpkg/downloads/g-truc-glm-5c46b9c07008ae65cb81ab79cd677ecc1934b903.tar.gz
+-- Using source at C:/Users/kilia/.vcpkg-clion/vcpkg/buildtrees/glm/src/cc1934b903-8ceebbed1b.clean
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+-- Building x64-windows-rel
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glm_x64-windows/share/glm/copyright
+-- Installing: C:/Users/kilia/.vcpkg-clion/vcpkg/packages/glm_x64-windows/share/glm/usage
+-- Performing post-build validation
+Stored binaries in 1 destinations in 489 ms.
+Elapsed time to handle glm:x64-windows: 8.3 s
+Total install time: 1.3 min
+The package glew is compatible with built-in CMake targets:
+
+    find_package(GLEW REQUIRED)
+    target_link_libraries(main PRIVATE GLEW::GLEW)
+
+glfw3 provides CMake targets:
+
+  # this is heuristically generated, and may not be correct
+  find_package(glfw3 CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE glfw)
+
+glm provides CMake targets:
+
+    find_package(glm CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE glm::glm)
+

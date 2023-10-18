@@ -1,0 +1,17 @@
+# ninja log v5
+1	502	7193136309961677	CMakeFiles/OpenGL_Minimal.dir/main.cpp.obj	39b7b2fc689bf8cb
+504	1778	7193136311443492	bin/OpenGL_Minimal.exe	da2ed5c6accc3be9
+3	509	7193147009217971	CMakeFiles/OpenGL_Minimal.dir/main.cpp.obj	39b7b2fc689bf8cb
+510	1657	7193147010289386	bin/OpenGL_Minimal.exe	da2ed5c6accc3be9
+4	502	7193148405337312	CMakeFiles/OpenGL_Minimal.dir/main.cpp.obj	39b7b2fc689bf8cb
+503	1573	7193148406247545	bin/OpenGL_Minimal.exe	da2ed5c6accc3be9
+4	506	7193149017088884	CMakeFiles/OpenGL_Minimal.dir/main.cpp.obj	39b7b2fc689bf8cb
+507	1600	7193149017979259	bin/OpenGL_Minimal.exe	da2ed5c6accc3be9
+3	510	7193170427619553	CMakeFiles/OpenGL_Minimal.dir/main.cpp.obj	39b7b2fc689bf8cb
+522	1651	7193170428750866	bin/OpenGL_Minimal.exe	da2ed5c6accc3be9
+3	486	7193170620480521	CMakeFiles/OpenGL_Minimal.dir/main.cpp.obj	39b7b2fc689bf8cb
+487	1541	7193170621369520	bin/OpenGL_Minimal.exe	da2ed5c6accc3be9
+3	489	7193170785778628	CMakeFiles/OpenGL_Minimal.dir/main.cpp.obj	39b7b2fc689bf8cb
+489	1533	7193170786667835	bin/OpenGL_Minimal.exe	da2ed5c6accc3be9
+3	507	7193170977045571	CMakeFiles/OpenGL_Minimal.dir/main.cpp.obj	39b7b2fc689bf8cb
+507	1551	7193170977955873	bin/OpenGL_Minimal.exe	da2ed5c6accc3be9
